@@ -1,0 +1,4 @@
+sample_id,timestamp,instrument,value,unit
+1,01/01/2026 10:00,spectrometer,12.5,mg
+2,01/01/2026 10:05,hplc,7.2,ml
+3,01/01/2026 10:10,rheometer,3.8,pa
