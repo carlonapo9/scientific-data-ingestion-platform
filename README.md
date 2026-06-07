@@ -1,5 +1,3 @@
-https://carlonapo9-scientific-data-ingestion-platform-app-ui-tibicg.streamlit.app/
-
 ## 🚀 Live Demo
 
 🔗 **Web App:** https://carlonapo9-scientific-data-ingestion-platform-app-ui-tibicg.streamlit.app/
