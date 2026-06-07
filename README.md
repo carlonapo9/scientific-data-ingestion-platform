@@ -1,3 +1,13 @@
+## 🚀 Live Demo
+
+🔗 **Web App:** https://carlonapo9-scientific-data-ingestion-platform-app-ui-tibicg.streamlit.app/
+
+Hosted on Streamlit Cloud — no setup required.
+
+---
+
+## 📊 Scientific Data Ingestion Platform
+
 # Scientific Data Ingestion Platform
 
 Python platform for ingesting, processing, and analysing scientific sensor and lab instrument data.
